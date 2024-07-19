@@ -30,6 +30,6 @@ pnpm build
 
 ### Lint with [ESLint](https://eslint.org/)
 
-```sh
+``` sh
 pnpm lint
 ```
